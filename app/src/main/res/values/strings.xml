@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Beta_TAS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="consultar">CONSULTAR - DESCARGAR</string>
+    <string name="volver">VOLVER</string>
+
+    ///// ACTIVITY INICIAR ////
+
+    <string name="informacion"> INFORMACION DEL MUESTREO </string>
+    <string name="nombre">NOMBRE DEL MUESTREO</string>
+    <string name="idTrasecto"> ID del transecto</string>
+    <string name="clase">Grupo de organismos</string>
+
+    ///// ELEMENTO LISTA /////
+    <string name="fecha">Fecha inicio</string>
+
+
+</resources>

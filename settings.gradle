@@ -1,0 +1,2 @@
+rootProject.name='Beta_TAS'
+include ':app'
