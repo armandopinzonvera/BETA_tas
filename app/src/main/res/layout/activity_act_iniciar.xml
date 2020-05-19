@@ -67,7 +67,7 @@
             android:onClick="onClickVolver"
             android:text="@string/volver"
             android:textSize="18sp" />
-
+<!--
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
@@ -82,6 +82,6 @@
             android:layout_height="wrap_content"
             android:background="@android:color/holo_orange_light"
             android:onClick="onClickMAPA2"
-            android:text="Dos mapa" />
+            android:text="Dos mapa" /> -->
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
